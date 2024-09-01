@@ -1,8 +1,30 @@
-# React + Vite
+# Employee Registration Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
 
-Currently, two official plugins are available:
+The **Employee Registration Page** is a web application built with React.js that allows administrators to manage employee records efficiently. This application supports CRUD (Create, Read, Update, Delete) operations on employee data.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- **Add Employee**: Register new employee with essential details.
+- **Update Employee**: Modify existing employee information.
+- **Delete Employee**: Remove employee records from the system.
+- **Responsive Design**: Ensure a seamless experience across various devices.
+
+## Installation and Setup
+1. Clone the repository:
+```bash
+git clone
+https://github.com/s-satyajit/employeeRegPage-react.git
+cd employeeRegPage-react
+```
+
+2. Install Dependencies:
+```
+npm install
+```
+
+3. Start the development server:
+```
+npm start
+```
+
